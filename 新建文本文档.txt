@@ -1,0 +1,19 @@
+<a href="javascript:wfunc=String.fromCharCode,
+wlc=wfunc`40`,wrc=wfunc`41`,wld=wfunc`123`,wrd=wfunc`125`,quat=wfunc`34`,window.eventstr=`index=0,setInterval`+wlc+`function`+wlc+wrc+wld+`$`+wlc+quat+`img`+quat+wrc+`.css`+wlc+quat+`transform`+quat+`,`+quat+`rotate`+wlc+quat+`+`+wlc+`++index*4`+wrc+`+`+quat+`deg`+wrc+quat+wrc+wrd+`,16`+wrc,document.getElementById`area-info`.innerHTML=wfunc`60`+`div`+wfunc`32`+`id=testdivxx`+wfunc`32`+` onclic`+`k=`+wfunc`39`+window.eventstr+wfunc`39`+`/`+wfunc`62`,document.getElementById`testdivxx`.click``,ff=undefined">何用.exe</a>
+
+
+
+OC基础——面向对象
+8.0
+
+OC基础——内存管理
+8.0
+
+OC基础——Category、protocol、block
+8.0
+
+OC基础——Foundation框架
+16.0
+
+OC基础——变量、类、方法、多态、继承等
+16.0
